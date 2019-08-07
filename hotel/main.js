@@ -21,6 +21,4 @@ else{
 
 // OR 
 //  var a = (change == "yes") ? console.log(prompt("enter your change please.")) : console.log(hotel[htl]) ;
-
-
-
+// End

@@ -6,3 +6,4 @@ document.write('The numbers which entered by user : ' +  '<br>' +
  'number1 : ' + num_1 + '<br>' +  'number2 : ' + num_2 + '<br>' +
  'number3 : ' + num_3 + '<br>' + 'number4 : ' + num_4 + '<br>') ; 
 document.write('Average : '+ (num_1 + num_2 + num_3 + num_4)/4 );
+// End
